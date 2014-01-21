@@ -1,6 +1,6 @@
 {
   "name": "charting",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Utilities to assist in plotting charts in a 2d space.",
   "main": "index.js",
   "author": "Matt Dunlap <mpdunlap@gmail.com>",
